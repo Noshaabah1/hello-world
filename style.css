@@ -1,0 +1,9 @@
+.navbar{
+background-color: purple 
+}
+.navbar a {
+    color: black
+}
+.navbar a:hover {
+    color: red;
+}
